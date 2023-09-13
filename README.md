@@ -39,6 +39,8 @@ WHAT DOES IT MEAN?!?! WHY I CAN'T OPEN LOCALHOST:3000 FROM MY BROWSER?!?! "Inter
 
 runing using ```bunx --bun next dev``` also show the same
 
+something that different is i'm curently using bun 1.0.1 dunno if that make a difference
+
 ## Getting Started
 
 First, run the development server:
